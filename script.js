@@ -7,7 +7,7 @@ Object.prototype.getKeys = function() {
   // for (const key in this) {
   //   keys.push(key);
   // }
-  return "aditay";
+  return student;
 };
 
 const studentKeys = student.getKeys();
